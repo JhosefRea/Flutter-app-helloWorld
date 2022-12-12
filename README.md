@@ -1,8 +1,7 @@
 # app_poli
 
-file:///tmp/Captura%20de%20pantalla_2022-12-12_13-43-26.png
+![image](https://user-images.githubusercontent.com/66775663/207131948-baf3e083-a2d1-45cd-b485-72597facd686.png)
 
-file:///tmp/Captura%20de%20pantalla_2022-12-12_13-44-08.png
 ## Getting Started
 
 This project is a starting point for a Flutter application.
