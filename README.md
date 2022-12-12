@@ -1,7 +1,8 @@
 # app_poli
 
-A new Flutter project.
+file:///tmp/Captura%20de%20pantalla_2022-12-12_13-43-26.png
 
+file:///tmp/Captura%20de%20pantalla_2022-12-12_13-44-08.png
 ## Getting Started
 
 This project is a starting point for a Flutter application.
